@@ -1,13 +1,9 @@
-h1 {
-    border: 2px dashed red;
-    background: black;
-}
 div {
     background-color: white;
     max-width: 1200px;
 }
 
-p {
-    text-align: justify;
-    font-size: 20px;
+span {
+    color: red;
+    border: 1px solid blue;
 }

@@ -1,8 +1,9 @@
-h1 {
-    color: #34363c;
-    background: black;
-}
 div {
     background-color: white;
     max-width: 1200px;
+}
+
+span {
+    color: red;
+    border: 1px solid blue;
 }
